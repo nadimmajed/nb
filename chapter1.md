@@ -1,9 +1,28 @@
 ---
-title       : Insert the chapter title here
+title       : first
 description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
+
+--- type:MultipleChoiceExercise lang:python xp:50 skills:2 key:19a5f8ba74
+## <<<New Exercise>>>
+
+
+
+*** =instructions
+
+*** =hint
+
+*** =pre_exercise_code
+```{python}
+
+```
+
+*** =sct
+```{python}
+
+```
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:fe76e9194e
 ## A really bad movie
 
